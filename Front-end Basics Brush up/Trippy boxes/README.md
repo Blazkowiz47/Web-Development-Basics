@@ -1,0 +1,1 @@
+This is for practicing basic keyframes and media queries
